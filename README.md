@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I am Franco 👋</h1>
 </div>
-<img src="https://imgur.com/a/skXnE0C">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/skXnE0C" data-context="false" ><a href="//imgur.com/a/skXnE0C"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Sobre mi
 
