@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I am Franco 👋</h1>
 </div>
-<img src="https://imgur.com/TN3KQKD">
+<img src="https://i.imgur.com/TN3KQKD.jpg">
 
 ## Sobre mi
 
@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">E-commerce Proyect</h3>
 <div align="center">
-<img src="https://imgur.com/a/w555X8m" width="400" alt="E-commerce Proyect">
+<img src="https://i.imgur.com/vMFyqnG.png" width="400" alt="E-commerce Proyect">
 <p>
 <a href="https://youtu.be/p8WA8-F6vi8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
