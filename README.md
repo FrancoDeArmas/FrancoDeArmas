@@ -2,8 +2,6 @@
 <h1 align="center">Hi there, I am Franco 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
-<!--
-**FrancoDeArmas/FrancoDeArmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Sobre mi
 
